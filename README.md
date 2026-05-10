@@ -13,6 +13,15 @@ Built with **Groq API** + **Streamlit** + **SQLite** — runs fully on your lapt
 
 🚀 *A fresher project by Kamparapu Eswar Sai Kiran*
 
+
+<img width="1890" height="845" alt="image" src="https://github.com/user-attachments/assets/bd75ed5a-fdc9-4c1b-8579-3726de88fd97" />
+<img width="388" height="762" alt="image" src="https://github.com/user-attachments/assets/9a008ab1-9d5b-404f-b70c-251d8100d15f" />
+<img width="1893" height="734" alt="image" src="https://github.com/user-attachments/assets/b402e586-a67b-4dc4-8645-94c1176fa61c" />
+<img width="1375" height="702" alt="image" src="https://github.com/user-attachments/assets/ed38c386-e5fd-4914-882a-1fed132f58df" />
+<img width="1312" height="782" alt="image" src="https://github.com/user-attachments/assets/3172f776-1239-49c3-af85-5ccd525b7bd6" />
+<img width="1382" height="566" alt="image" src="https://github.com/user-attachments/assets/25e8aa45-56c8-4990-96fe-92edeb290193" />
+<img width="1326" height="780" alt="image" src="https://github.com/user-attachments/assets/033ed239-9caa-4706-8794-82f88097bedd" />
+
 ---
 
 ## 🔐 Security First
