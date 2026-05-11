@@ -14,7 +14,7 @@ An AI-powered tool that compares a resume against a job description and gives:
 Built with **Groq API** + **Streamlit** + **SQLite** — runs fully on your laptop, completely free.
 
 🚀 *A fresher project by Kamparapu Eswar Sai Kiran*
-
+---
 
 <img width="1890" height="845" alt="image" src="https://github.com/user-attachments/assets/bd75ed5a-fdc9-4c1b-8579-3726de88fd97" />
 <img width="388" height="762" alt="image" src="https://github.com/user-attachments/assets/9a008ab1-9d5b-404f-b70c-251d8100d15f" />
